@@ -54,7 +54,6 @@ Titanic-Dataset.csv
    ```commandline
     pip install -r requirements.txt
    ```
-   ```
 3. **Run the Streamlit app:**:   
    ```commandline
     streamlit run app_xgb.py
